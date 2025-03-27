@@ -37,6 +37,6 @@ React Router: For routing between different pages (Product List, Admin Panel, et
 
 State Management: Using React's useState and useEffect hooks to manage the state of the application.
 
-CSS (or Styled Components): For styling the application and ensuring a responsive design.
+TailwindCSS (or Styled Components): For styling the application and ensuring a responsive design.
 
 Local Storage (or Backend API for production): For storing product data in local storage during development or for testing.
